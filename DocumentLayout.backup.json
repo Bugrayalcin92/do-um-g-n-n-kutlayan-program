@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MEHMET BU\u011ERA YAL\u00C7IN\\source\\repos\\proje \u00F6devim nesne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E3D6AA-8A89-4156-B9B8-51A714890BC4}|proje \u00F6devim nesne\\proje \u00F6devim nesne.csproj|c:\\users\\mehmet bu\u011Fra yal\u00E7in\\source\\repos\\proje \u00F6devim nesne\\proje \u00F6devim nesne\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0E3D6AA-8A89-4156-B9B8-51A714890BC4}|proje \u00F6devim nesne\\proje \u00F6devim nesne.csproj|solutionrelative:proje \u00F6devim nesne\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MEHMET BU\u011ERA YAL\u00C7IN\\source\\repos\\proje \u00F6devim nesne\\proje \u00F6devim nesne\\Form1.cs",
+              "RelativeDocumentMoniker": "proje \u00F6devim nesne\\Form1.cs",
+              "ToolTip": "C:\\Users\\MEHMET BU\u011ERA YAL\u00C7IN\\source\\repos\\proje \u00F6devim nesne\\proje \u00F6devim nesne\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "proje \u00F6devim nesne\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:18:10.384Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
